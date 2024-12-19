@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "open-in-ulysses",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Open the current Markdown document in Ulysses.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
